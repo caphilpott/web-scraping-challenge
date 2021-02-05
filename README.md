@@ -1,2 +1,2 @@
-# web-scrapting-challenge
+# web-scraping-challenge
 Mission to Mars
