@@ -1,0 +1,33 @@
+.pad_20 {
+    color: blue;
+    padding-left: 20px;
+    }
+
+.card-image {
+    width: 300px;
+    height:auto;
+    outline-style: none;
+    }
+
+.featured {
+    width: 450px;
+    height:450px;
+    outline-style: none;
+    }
+
+.jumbotron {
+    background-image: url("https://nssdc.gsfc.nasa.gov/planetary/image/mera_east_hills.jpg");
+    background-size: cover;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+    text-align: center;
+    color: blue;
+    }
+
+    .section_title {
+        color: blue;
+        align-content:center;
+        padding-left:650px;
+        }
